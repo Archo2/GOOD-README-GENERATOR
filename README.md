@@ -1,71 +1,32 @@
-# GOOD-README-GENERATOR
+# Good README Generator
 
-Every good project needs a quality README with information about the app - what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project.
-This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project.
+A Node.js command-line app that asks questions about your project and generates a professional `README.md` from your answers.
 
-Archils Oburu
+## Features
 
-GitHub license
+- Prompts for title, description, installation steps, usage, license, contributors, tests and contact details
+- Generates a formatted README with a table of contents and a license badge
+- Saves the result to a new `readMe.md` file
 
-Description
+## Built With
 
-follow all process as they prompt
+Node.js · Inquirer
 
-Table of Contents
+## Getting Started
 
-Installation
+**Prerequisites:** Node.js
 
-Usage
+```bash
+git clone https://github.com/Archils/GOOD-README-GENERATOR.git
+cd GOOD-README-GENERATOR
+npm install
+node js/Utils/index.js
+```
 
-License
+Answer the prompts. Your new README is saved as `readMe.md`.
 
-ProjectTitle
+## Author
 
-LicenseName
-
-[Table of Contents](#Table of Contents)
-
-ProjectDescription
-
-Contributors
-
-Tests
-
-Questions
-
-Contacts
-
-Github
-
-Email
-
-Installation
-
-To install necessary dependencies, run the following command:
-
-from step 1-10
-Usage
-
-check the instruction booklet
-
-license
-
-This project is lincese under the qwell license
-
-Contributing
-
-Archo
-
-Tests
-
-/// To run tests, run the following command:
-
-///
-Questions
-
-call
-
-Contacts
-
-EMAIL: oburuachils@gmail.com 
-Github:archo21
+**Archils Oburu**
+- GitHub: [@Archils](https://github.com/Archils)
+- Email: oburuarchils@gmail.com
