@@ -17,7 +17,7 @@ Node.js · Inquirer
 **Prerequisites:** Node.js
 
 ```bash
-git clone https://github.com/Archils/GOOD-README-GENERATOR.git
+git clone https://github.com/Archo2/GOOD-README-GENERATOR.git
 cd GOOD-README-GENERATOR
 npm install
 node js/Utils/index.js
@@ -28,5 +28,5 @@ Answer the prompts. Your new README is saved as `readMe.md`.
 ## Author
 
 **Archils Oburu**
-- GitHub: [@Archils](https://github.com/Archils)
+- GitHub: [@Archo2](https://github.com/Archo2)
 - Email: oburuarchils@gmail.com
